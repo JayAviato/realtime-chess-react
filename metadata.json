@@ -1,0 +1,4 @@
+{
+  "name": "React Chess Master",
+  "description": "A fully functional chess game with move validation, special moves (castling, en passant), and game history."
+}
